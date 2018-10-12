@@ -13,11 +13,11 @@
 ## nvm Commands:
 1. To download, compile, and install the latest release of node, do this:
 	* `nvm install node `
-	- # "node" is an alias for the latest version
+	- "node" is an alias for the latest version
 
 2. To install a specific version of node:
 	* `nvm install 6.14.4` 
-	- # or 10.10.0, 8.9.1, etc
+	- or 10.10.0, 8.9.1, etc
 
 3. You can list available versions using ls-remote:
 	* `nvm ls-remote`
