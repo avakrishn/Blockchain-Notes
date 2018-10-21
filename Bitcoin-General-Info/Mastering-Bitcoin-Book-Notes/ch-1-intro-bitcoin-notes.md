@@ -1,6 +1,7 @@
-#Bitcoin Introduction
 
-###Notes on [Chapter 1: Introduction](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch01.asciidoc) of [Mastering Bitcoin 2nd Edition - Programming the Open Blockchain](https://github.com/bitcoinbook/bitcoinbook)
+# Bitcoin Introduction
+
+### Notes on [Chapter 1: Introduction](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch01.asciidoc) of [Mastering Bitcoin 2nd Edition - Programming the Open Blockchain](https://github.com/bitcoinbook/bitcoinbook)
 
 ## What is Bitcoin?
 1. Bitcoin is a unit of currency and is entirely virtual
